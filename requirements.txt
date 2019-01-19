@@ -1,0 +1,5 @@
+broadlink==0.9
+paho-mqtt==1.4.0
+pyaes==1.6.0
+PyCRC==1.21
+pytz==2018.9
